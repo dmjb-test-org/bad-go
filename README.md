@@ -23,3 +23,5 @@ demonstration purposes with stacklok projects. It is a simple Go project.
 - GitHub Actions CI workflow
 
 Happy testing! 🦀🎉
+
+FOO
